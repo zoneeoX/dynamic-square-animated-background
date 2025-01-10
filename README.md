@@ -6,4 +6,4 @@ How it looks like:
 
 ---
 
-**Note:** Click the image above for a larger view or to see the feature in motion!
+**Note:** Click the image above for a larger view 😄
