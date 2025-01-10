@@ -2,7 +2,7 @@
 
 How it looks like:
 
-![Feature Animation](https://s5.ezgif.com/tmp/ezgif-5-cb895085fb.gif)
+![Feature Animation](https://imgur.com/a/w9ZAHc3)
 
 ---
 
