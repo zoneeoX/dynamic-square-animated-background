@@ -1,7 +1,6 @@
 const background = document.querySelector(".background");
 
-// Number of squares to generate at once
-const squareCount = 5; // Generate only a few squares at a time for better density control
+const squareCount = 5;
 
 function generateSquare() {
   const square = document.createElement("div");
@@ -23,6 +22,8 @@ function generateSquare() {
 for (let i = 0; i < squareCount; i++) {
   generateSquare();
 }
+
+//use "worker-timers" for better result :D (if you're out of the page the blob wont act weird);
 
 setInterval(() => {
   generateSquare();
