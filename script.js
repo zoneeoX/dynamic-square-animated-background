@@ -1,7 +1,6 @@
 const background = document.querySelector(".background");
 
-// Number of squares to generate at once
-const squareCount = 5; // Generate only a few squares at a time for better density control
+const squareCount = 5;
 
 function generateSquare() {
   const square = document.createElement("div");
