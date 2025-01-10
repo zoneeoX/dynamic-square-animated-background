@@ -23,6 +23,8 @@ for (let i = 0; i < squareCount; i++) {
   generateSquare();
 }
 
+//use "worker-timers" for better result :D (if you're out of the page the blob wont act weird);
+
 setInterval(() => {
   generateSquare();
 }, 2000); 
