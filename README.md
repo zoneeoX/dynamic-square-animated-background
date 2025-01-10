@@ -4,7 +4,7 @@
 
 Here’s an elegant presentation of the animation or feature:
 
-![Feature Animation](https://fileditchfiles.me/file.php?f=/s21/liZJSAqCkSPJwVldHlzE.gif)
+![Feature Animation](https://i.imgur.com/uwvmTya.gif)
 
 ---
 
