@@ -1,10 +1,8 @@
-# Project Title
-
 ## Preview
 
 How it looks like:
 
-![Feature Animation](https://i.imgur.com/uwvmTya.gif)
+![Feature Animation](https://s5.ezgif.com/tmp/ezgif-5-cb895085fb.gif)
 
 ---
 
