@@ -1,8 +1,8 @@
 # Project Title
 
-## GIF Preview
+## Preview
 
-Here’s an elegant presentation of the animation or feature:
+How it looks like:
 
 ![Feature Animation](https://i.imgur.com/uwvmTya.gif)
 
